@@ -10,3 +10,7 @@ header{
 header h1{
 	color: sienna;
 }
+
+header img{
+	border-radius: 150px;
+}
