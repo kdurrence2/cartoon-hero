@@ -5,6 +5,8 @@ body{
 header{
 	background-color: navajowhite;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 header h1{
