@@ -3,6 +3,7 @@ body{
 }
 
 header{
+	color: navajowhite;
 	text-align: center;
 }
 
@@ -11,6 +12,7 @@ header h1{
 }
 
 header img{
-	border-radius: 150px;
-	width: 300px;
+	border-radius: 300px;
+	width: 350px;
+	border: 10 px solid sienna;
 }
