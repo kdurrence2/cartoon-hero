@@ -6,7 +6,7 @@ header{
 	background-color: navajowhite;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-bottom: 35px;
 }
 
 header h1{
@@ -18,4 +18,8 @@ header img{
 	border-radius: 300px;
 	width: 350px;
 	border: 10px solid sienna;
+}
+
+main{
+	background-color: navajowhite;
 }
